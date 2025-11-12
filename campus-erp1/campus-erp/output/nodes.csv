@@ -1,0 +1,39 @@
+id,section,text,ambiguity,volatility
+REQ-001,0,The final product will be having only features or functionality mentioned in this document.,0.0,0.0
+REQ-002,2.1,2.1 Product Perspective The application will be windows based self contained and independent software product Administrator Information Security System Marks Entry Clerk Student Result Management System Coordinator Overview of the proposed system,0.0,0.0
+REQ-003,2.2,2.2 Product Functionality Mark-sheet Generation Various Reports Generation Rajendra Kumar Mahto Department of Information Technology A summary of the major functions that the software will perform:,0.0,0.0
+REQ-004,0,2) User will be able to add/modify/delete information about different students data enrolled for the course in different year.,0.0,0.0
+REQ-005,0,3) User will be able to add/modify/delete information about different subjects that are offered in particular semester.,0.0,0.0
+REQ-006,0,The semester wise list of subjects along with their credit points and type will be displayed.,0.0,0.0
+REQ-007,0,4) User will be able to add/modify/delete information about elective subjects opted by different students in different semester.,0.0,0.0
+REQ-008,0,5) User will be able to add/modify/delete information regarding marks obtained by different students in different semester.,0.0,0.0
+REQ-009,0,6) User will also be able to print mark sheets of students,0.0,0.0
+REQ-010,0,7) User will be able to generate printable reports.,0.0,0.0
+REQ-011,0,8) User will be able to reset the system leading to deletion of all existing information from the backend database.,0.0,0.0
+REQ-012,0,9) User will be able to create/modify/delete new/existing user accounts.,0.0,0.0
+REQ-013,0,It will not be able to store a very huge number of records.,0.0,0.0
+REQ-014,0,"2) Due to very limited features of DBMS being used, database auditing will not be provided",0.0,0.0
+REQ-015,3.1.1,3.1.1 User Interfaces Rajendra Kumar Mahto Department of Information Technology Login Screen: various fields available on this screen will be,0.0,0.0
+REQ-016,0,3) Role: Admin/Clerk/Coordinator Subject Information Parameter Screen: This screen will be accessible only to the user with admin role.,0.0,0.0
+REQ-017,0,The various fields available on this screen will be,0.0,0.0
+REQ-018,0,4) Credits Student Information Screen: various fields available on this screen will be,0.0,0.0
+REQ-019,0,3) Batch Year Student Subject Choice Screen: It will allow user to add/modify/delete student choices for elective subjects of the semester and batch year selected in student subject choice screen.,0.0,0.0
+REQ-020,0,The screen will display list of available choices for elective I & elective II for the selected semester.,0.0,0.0
+REQ-021,0,The screen will also display the list of students enrolled during the selected batch year and currently studying in the selected semester.,0.0,0.0
+REQ-022,0,Marks Entry Screen: various fields available on this screen will be,0.0,0.0
+REQ-023,0,6) Total Marks Mark Sheet Screen: It will allow user to enter the enrollment number and the semester number of the student for whom the user want to view/print the mark sheet.,0.0,0.0
+REQ-024,0,Rajendra Kumar Mahto Department of Information Technology Student List Report Screen: It will allow the user to enter the batch year for which the user wants to view/print the student list report.,0.0,0.0
+REQ-025,0,Rank wise List Report Screen: It will allow the user to enter the batch year and the semester number for which the user wants to view/print the Rank wise list report.,0.0,0.0
+REQ-026,0,Student Subject Choices List Report Screen: It will allow the user to enter the batch year and the semester number for which the user wants to view/print the Student’s choices list report.,0.0,0.0
+REQ-027,0,1) Subject Information Management The system will maintain information about various subjects being offered during different semesters of the course.,0.0,0.0
+REQ-028,0,2) Student Information Management Rajendra Kumar Mahto Department of Information Technology System will maintain information about various students enrolled in the MCA course in different years.,0.0,0.0
+REQ-029,0,The system will allow creation/modification/deletion of new/existing students and also have the ability to list all the students enrolled in a particular year.,0.0,0.0
+REQ-030,0,3) Student’s Subject Choice Information Management The system will maintain information about choice of different Elective subjects opted by various students of different enrollment years in different semesters.,0.0,0.0
+REQ-031,0,4) Marks Information Management The system will maintain information about marks obtained by various students of different enrollment years in different semesters.,0.0,0.0
+REQ-032,0,The system will also have creation/modification/deletion of marks information.,0.0,0.0
+REQ-033,0,5) Mark sheet Generation The system will generate mark-sheet for every student in different semesters.,0.0,0.0
+REQ-034,0,1) Student List Reports For each year a report will be generated containing the list of students enrolled in that batch year.,0.0,0.0
+REQ-035,0,2) Student Subject Choice List Report For each batch year a report will be generated containing the list of students and their choices for Elective subject in the selected semester.,0.0,0.0
+REQ-036,0,7) User Account Management The system will maintain information about various users who will be able to access the system.,0.0,0.0
+REQ-037,3.3,3.3 Use Cases The various use cases will be,0.0,0.0
+REQ-038,3.4,3.4 Classes / Objects : The various classes will be,0.0,0.0
